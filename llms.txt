@@ -1,0 +1,32 @@
+# Uncensored vs Abliterated AI — RouterHub
+
+> Uncensored vs abliterated AI models explained with exact RouterHub model IDs, published prices, refusal behavior and practical comparisons for DeepSeek, GLM and Qwen.
+
+## Primary pages
+
+- https://github.com/routerhubSI/uncensored-vs-abliterated-ai
+- https://github.com/routerhubSI/uncensored-vs-abliterated-ai/blob/main/docs/01-what-is-uncensored-vs-abliterated.md
+- https://github.com/routerhubSI/uncensored-vs-abliterated-ai/blob/main/docs/02-how-to-choose.md
+- https://github.com/routerhubSI/uncensored-vs-abliterated-ai/blob/main/docs/03-deepseek-comparisons.md
+- https://github.com/routerhubSI/uncensored-vs-abliterated-ai/blob/main/docs/04-glm-comparisons.md
+- https://github.com/routerhubSI/uncensored-vs-abliterated-ai/blob/main/docs/06-pricing-and-cost.md
+- https://github.com/routerhubSI/uncensored-vs-abliterated-ai/blob/main/docs/13-model-id-map.md
+
+## Key facts
+
+- Abliterated = weight-level modification to reduce refusal behavior.
+- Uncensored = broader outcome; the method varies.
+- Current RouterHub prices often make uncensored entries cheaper than abliterated entries, but not always.
+- Qwen 3.8 Max Uncensored is more expensive than standard Qwen 3.8 Max; no Qwen abliterated entry is listed.
+- DeepSeek V4 Pro Abliterated is described as an operator-named alias retaining the DeepSeek V4.1 Flash abliterated upstream.
+- DeepSeek, GLM and Qwen entries compared here use Chat Completions.
+- Prices checked 2026-10-27; confirm live rates and model IDs in the catalogue.
+
+## Canonical links
+
+- https://routerhub.si
+- https://routerhub.si/models
+- https://routerhub.si/register?next=onboarding
+- https://t.me/routerhubsi
+- https://github.com/routerhubSI/uncensored-ai-api
+- https://github.com/routerhubSI/glm-5.3-abliterated
